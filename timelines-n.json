@@ -1,0 +1,80 @@
+{
+  "": [
+    {
+      "keyframes": [
+        {
+          "time": 0,
+          "properties": {
+            "timestamp": 0
+          }
+        },
+        {
+          "time": 32651,
+          "properties": {
+            "timestamp": 32651
+          }
+        }
+      ],
+      "segments": [
+        0
+      ],
+      "interpolators": [
+        {
+          "type": "linear",
+          "properties": [
+            "timestamp"
+          ]
+        }
+      ]
+    },
+    {
+      "keyframes": [
+        {
+          "time": 0,
+          "properties": {
+            "camera:rotation": [
+              211.20885,
+              -1.1695429,
+              0
+            ],
+            "camera:position": [
+              "-296.18391628466145222",
+              "-120.33678972300189222",
+              "5.4682475586003532222"
+            ]
+          }
+        },
+        {
+          "time": 32651,
+          "properties": {
+            "camera:rotation": [
+              211.20885,
+              -1.1695429,
+              0
+            ],
+            "camera:position": [
+              "-296.18391628466145222",
+              "-120.33678972300189222",
+              "5.4682475586003532222"
+            ]
+          }
+        }
+      ],
+      "segments": [
+        0
+      ],
+      "interpolators": [
+        {
+          "type": {
+            "type": "catmull-rom-spline",
+            "alpha": 0.5
+          },
+          "properties": [
+            "camera:rotation",
+            "camera:position"
+          ]
+        }
+      ]
+    }
+  ]
+}
