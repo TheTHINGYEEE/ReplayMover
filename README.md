@@ -1,6 +1,6 @@
 # Replay Mover
 
-A reimplementation of the Replay Mover utility created by <a href="https://www.slicedlime.tv/replay-mover">Slicedlime</a>.
+A NodeJS reimplementation of the Replay Mover utility created by <a href="https://www.slicedlime.tv/replay-mover">Slicedlime</a>.
 
 If you're unsure on what to put in the fields, watch this <a href="https://www.youtube.com/watch?v=fiAYePYcFHc&list=PL4ZS2guXqa_ixSHBW3Lh06sjvD9_yrMr8&index=5">video tutorial</a>.
 
@@ -25,5 +25,9 @@ If you're unsure on what to put in the fields, watch this <a href="https://www.y
    ```
    
 4. Access web interface via **localhost:3000**
+
+## Support
+Join my <a href="https://discord.gg/2Waa6fZt3y">discord</a> if you are having trouble installing and running this program :)
+
 
 
